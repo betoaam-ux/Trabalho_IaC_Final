@@ -10,3 +10,4 @@ André Thadeu Queiroz dos Santos | RA: 10729257
 
 TRABALHO IaC
 
+
